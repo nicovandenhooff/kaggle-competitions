@@ -1,2 +1,2 @@
-# kaggle-projects
-A repository that contains my kaggle projects.
+# kaggle-competitions
+A repository that contains my kaggle competitions.
